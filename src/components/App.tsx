@@ -7,8 +7,8 @@ export const App = () => {
     <>
       <main className="app" ref={dom}>
         <section className='hero'>
-          <h1>Web 3D Workshop</h1>
-          <h3>Por Emanuel Lorenzo - @emalorenzo_</h3>
+          <h1>Title</h1>
+          <h3>Subtitle</h3>
         </section>
       </main>
       <Canvas className="canvas">
