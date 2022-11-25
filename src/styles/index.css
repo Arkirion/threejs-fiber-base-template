@@ -52,6 +52,10 @@ h1 {
   pointer-events: all;
 }
 
+.allowEvents{
+  pointer-events: all;
+}
+
 .canvas {
   position: fixed !important;
   inset: 0 !important;
